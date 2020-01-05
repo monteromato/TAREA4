@@ -1,4 +1,12 @@
 package cuentas;
+/**
+ * Notas con JAVADOC 
+ * @author Paula
+ * @version 1
+ * @since 05-01-2020
+ * notas para la clase CCuenta
+ * se muestra en github
+ *  */
 
 public class CCuenta {
 
