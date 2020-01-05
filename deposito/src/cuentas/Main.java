@@ -1,12 +1,12 @@
-package cuenta;
+package cuentas;
 
 public class Main {
 
     public static void main(String[] args) {
-        operativa_cuenta();
+        operativa_cuenta(null);
     }
 
-	private static void operativa_cuenta() {
+	private static void operativa_cuenta(Float cantidad) {
 		CCuenta cuenta1;
         double saldoActual;
 

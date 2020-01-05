@@ -1,4 +1,4 @@
-package cuenta;
+package cuentas;
 
 public class CCuenta {
 
@@ -72,3 +72,4 @@ public class CCuenta {
 		this.tipoInterés = tipoInterés;
 	}
 }
+
